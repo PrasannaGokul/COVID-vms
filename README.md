@@ -76,5 +76,5 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Enjoy using **COVID-vms** and stay safe!
+Enjoy using **COVID-vms** and stay safe.
 
